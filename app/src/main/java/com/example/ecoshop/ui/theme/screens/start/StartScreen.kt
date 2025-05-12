@@ -43,7 +43,7 @@ fun StartScreen(navController: NavController) {
 
     ) {
     Image(
-      painter = painterResource(R.drawable.icon),
+      painter = painterResource(R.drawable.save),
       contentDescription = "",
       modifier = Modifier.size(300.dp)
 

@@ -2,7 +2,6 @@ package com.example.EcoShop.ui.theme.screens.auth
 
 
 
-
 import android.widget.Toast
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.tween
@@ -100,7 +99,7 @@ fun LoginScreen(
     horizontalAlignment = Alignment.CenterHorizontally
   ) {
     Image(
-      painter = painterResource(R.drawable.icon3),
+      painter = painterResource(R.drawable.save),
       contentDescription = "dress",
       modifier = Modifier.clip(shape = RoundedCornerShape(10.dp)),
 

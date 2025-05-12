@@ -42,7 +42,7 @@ fun SplashScreen(navController: NavController){
 
   ){
     Image(
-      painter = painterResource(R.drawable.icon2),
+      painter = painterResource(R.drawable.save),
       contentDescription = "",
       modifier = Modifier.fillMaxSize()
     )

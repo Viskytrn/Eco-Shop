@@ -92,7 +92,7 @@ fun RegisterScreen(
 
   ) {
     Image(
-      painter = painterResource(R.drawable.icon3),
+      painter = painterResource(R.drawable.save),
       contentDescription = "dress",
       modifier = Modifier.clip(shape = RoundedCornerShape(10.dp)),
 

@@ -186,7 +186,7 @@ fun HomeScreen(navController: NavHostController) {
           modifier = Modifier.fillMaxWidth(),
           horizontalArrangement = Arrangement.SpaceBetween
         ) {
-          Text("Fashion Hub", fontSize = 24.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Cursive)
+          Text("EcoShop", fontSize = 24.sp, fontWeight = FontWeight.Bold, fontFamily = FontFamily.Cursive)
           Icon(Icons.Default.Notifications, contentDescription = "Notifications")
         }
 
